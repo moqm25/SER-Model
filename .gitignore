@@ -1,0 +1,6 @@
+./models/model.tflite
+./models/model.savedmodel
+./models/model.savedmodel/variables/variables.data-00000-of-00001
+./models/model.savedmodel/variables/variables.index
+./models/model.savedmodel/keras_metadata.pb
+./models/model.savedmodel/saved_model.pb
